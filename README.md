@@ -1,2 +1,2 @@
 # adopt-me
-Adopt dog
+React application to adopt dog
